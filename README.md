@@ -244,23 +244,37 @@ A Salesforce CRM application developed to automate employee leave requests, mana
 
 ---
 
-# 📈 GitHub Statistics
+---
 
 # 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=syamalakotha&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=syamalakotha&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+  alt="GitHub Statistics"
+  height="180"
+/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syamalakotha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=syamalakotha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  alt="Top Languages"
+  height="180"
+/>
 
-</p>
+</div>
 
-<p align="center">
+<br>
 
-<img height="180" src="https://streak-stats.demolab.com/?user=syamalakotha&theme=tokyonight&hide_border=true" />
+<div align="center">
 
-</p>
+<img
+  src="https://streak-stats.demolab.com/?user=syamalakotha&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
+  height="180"
+/>
+
+</div>
 
 ---
 
