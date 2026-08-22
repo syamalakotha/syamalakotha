@@ -244,26 +244,23 @@ A Salesforce CRM application developed to automate employee leave requests, mana
 
 ---
 
----
----
-
----
-
 # 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=syamalakotha&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="GitHub Statistics">
+<img
+  src="./profile/stats.svg"
+  alt="GitHub Statistics"
+  height="180"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syamalakotha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages">
+<img
+  src="./profile/top-langs.svg"
+  alt="Top Languages"
+  height="180"
+/>
 
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=syamalakotha&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak">
-
-</p>
+</div>
 
 ---
 
